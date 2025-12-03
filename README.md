@@ -92,10 +92,4 @@ npm start
 
 ## License
 
-MIT
 
-## Deploy
-
-Deploy easily with [Vercel](https://vercel.com):
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new)
